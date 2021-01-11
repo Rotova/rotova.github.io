@@ -1,0 +1,2 @@
+[0110/162536.342:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[0111/124406.963:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
